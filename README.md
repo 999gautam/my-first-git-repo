@@ -1,3 +1,7 @@
 # my-first-git-repo
+
 my first repo
-mu massage to all is prepere for fiture
+my massage to all is prepare for future 
+
+corrected my mistakes
+
